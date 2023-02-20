@@ -1,18 +1,17 @@
 ﻿# GCP_Final-Task
 This project contains Terraform configuration for setting up infrastructure on Google Cloud Platform (GCP).
 
-Requirements:
-
+### Requirements:
         ◦ Terraform
         ◦ Create a bucket for the terraform state backend
         ◦ Google Cloud SDK
         ◦ Access to a GCP project to create and manage resources.
       
-Task:
+### Task:
 
 ![photo_2023-02-16_19-04-32](https://user-images.githubusercontent.com/88335759/220201452-185698ff-c860-4271-9595-feb36b7210b9.jpg)
 
-﻿# Getting started
+### Getting started:
 
 To Access this project do this steps:
 

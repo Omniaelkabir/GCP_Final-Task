@@ -45,7 +45,7 @@ terraform apply
  6-3. vim yaml files in k8s_files
  6-4. Apply then using kubectl apply
 
-![instance-ssh2](https://user-images.githubusercontent.com/88335759/220203243-a906f568-ab55-4cf2-9f90-c4d5d920d713.png)
+![instance-ssh2](https://user-images.githubusercontent.com/88335759/220206068-4891b13d-456b-45bd-bfa9-020814e51dd3.png)
 
  7-1. In google console open Kubernetes Engine then Services & Ingress 
 

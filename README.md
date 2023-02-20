@@ -8,7 +8,7 @@ Requirements:
       
 Task:
 
-
+![photo_2023-02-16_19-04-32](https://user-images.githubusercontent.com/88335759/220201452-185698ff-c860-4271-9595-feb36b7210b9.jpg)
 
 To Access this project do this steps:
 
@@ -21,4 +21,6 @@ git clone https://github.com/Omniaelkabir/GCP_Final-Task.git
 3) Open terminal to run terraform command
 
 terraform init
+
+![terraform-init](https://user-images.githubusercontent.com/88335759/220201569-068e8026-9b93-4999-9a27-528de0d91f3a.png)
 

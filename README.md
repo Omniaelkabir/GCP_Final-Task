@@ -37,7 +37,7 @@ terraform apply
 
 5) Go to google console in Compute Engine choose vm instance then click on SSH
 
-   6-1. Update and Install Needed packages and auth login
+  6-1. Update and Install Needed packages and auth login
 
 ![instance-ssh1](https://user-images.githubusercontent.com/88335759/220202797-ef75239f-49b6-4ef4-98b2-6d9f82fd5990.png)
 

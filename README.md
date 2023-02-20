@@ -55,7 +55,9 @@ terraform apply
 
 ![hello-output](https://user-images.githubusercontent.com/88335759/220203727-17302109-1724-4d17-906c-9a7f71b46cc1.png)
 
+8) To clean Google console in terraform_files directory open terminal to run terraform destroy
 
+![terraform-destroy](https://user-images.githubusercontent.com/88335759/220206866-53cf2b8f-d506-4903-91f4-ce83f6f3144f.png)
   
 
 
